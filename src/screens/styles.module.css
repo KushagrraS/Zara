@@ -1,0 +1,7 @@
+.imagesGridContainer{
+    display: grid;
+    grid-template-columns: 290px 290px 290px;
+    grid-gap: 30px;
+    grid-auto-flow: row;
+    row-gap: 40px;
+}
